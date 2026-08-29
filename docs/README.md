@@ -461,7 +461,6 @@ Before submitting, confirm that:
 - [ ] The pull request points to the original class repository
 - [ ] The pull request compares `BRANCH-NAME` against the correct base branch
 - [ ] The pull request has the name required by the assignment
-- [ ] The pull-request description includes my Expo Snack URL
 - [ ] I listed any known issues
 
 To check your current Git status and branch, run:
